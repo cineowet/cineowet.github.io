@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cineowet.github.io/sitemap.html.gz
+Sitemap: https://cineowet.github.io/app/sitemap.html.gz
+Sitemap: https://cineowet.github.io/assets/sitemap.html.gz
+Sitemap: https://cineowet.github.io/css/sitemap.html.gz
+Sitemap: https://cineowet.github.io/includes/sitemap.html.gz
+Sitemap: https://cineowet.github.io/item/sitemap.html.gz
+Sitemap: https://cineowet.github.io/src/sitemap.html.gz
